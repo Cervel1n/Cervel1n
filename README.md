@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cerve048/)
 
 ![Cervelin GitHub stats](https://github-readme-stats.vercel.app/api?username=Cervel1n&show_icons=true&theme=tokyonight)
-
+##
 ### Tecnologia que estudo diariamente
 
 <div style="dysplay: inline_block"><br/>
@@ -16,5 +16,5 @@
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div>
-
+##
 ![snake gif](https://github.com/Cervel1n/Cervel1n/blob/output/github-contribution-grid-snake.svg)
