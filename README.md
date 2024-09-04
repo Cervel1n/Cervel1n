@@ -7,7 +7,7 @@
 
 ![Cervelin GitHub stats](https://github-readme-stats.vercel.app/api?username=Cervel1n&show_icons=true&theme=tokyonight)
 ##
-### Tecnologia que estudo diariamente
+### Tecnologia estudadas
 
 <div style="dysplay: inline_block"><br/>
 <img align="center" alt="Delphi 10" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white"/>
